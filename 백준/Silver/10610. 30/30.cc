@@ -1,10 +1,10 @@
+using namespace std;
 #include <iostream>
 #include <vector>
 #include <string>
 #include <algorithm>
 
-using namespace std;
-
+//끝이 0이고 앞에 숫자들이 3의 배수면 됨.
 int main() {
     string num;
     cin >> num;
